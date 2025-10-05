@@ -1,0 +1,20 @@
+{
+    "todos": "Yapılacaklar",
+    "done": "Tamamlandı",
+    "add": "Ekle",
+    "name": "İsim",
+    "description": "Açıklama",
+    "cancel": "İptal",
+    "update": "Güncelle",
+    "tasks": "Görevler",
+    "settings": "Ayarlar",
+    "theme": "Tema",
+    "language": "Dil",
+    "system": "Sistem",
+    "light": "Açık",
+    "dark": "Koyu",
+    "emptyFieldAlert": "Lütfen bir metin girin",
+    "youDontHaveAnyDoneTodos": "Tamamlanmış yapılacak işiniz yok",
+    "delete": "Sil",
+    "areYouSure": "Emin misiniz?"
+}
