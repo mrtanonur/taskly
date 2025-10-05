@@ -1,0 +1,1 @@
+/Users/onurtan/development/taskly/android/app/build/intermediates/cxx/debug/3f73g316/obj/arm64-v8a

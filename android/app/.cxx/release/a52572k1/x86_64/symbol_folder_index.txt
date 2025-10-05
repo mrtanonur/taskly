@@ -1,0 +1,1 @@
+/Users/onurtan/development/taskly/android/app/build/intermediates/cxx/release/a52572k1/obj/x86_64
